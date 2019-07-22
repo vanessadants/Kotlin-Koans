@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Builders/The function apply">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Builders/The function apply/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Builders/The function apply/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Builders/The function apply/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

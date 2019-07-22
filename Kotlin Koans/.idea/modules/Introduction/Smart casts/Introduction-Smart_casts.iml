@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Introduction/Smart casts">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Introduction/Smart casts/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Introduction/Smart casts/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Introduction/Smart casts/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

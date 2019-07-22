@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Builders/String and map builders">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Builders/String and map builders/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Builders/String and map builders/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Builders/String and map builders/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

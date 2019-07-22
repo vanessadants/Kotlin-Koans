@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Introduction/SAM conversions">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Introduction/SAM conversions/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Introduction/SAM conversions/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Introduction/SAM conversions/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Collections/GroupBy">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/GroupBy/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/GroupBy/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/GroupBy/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

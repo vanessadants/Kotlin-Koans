@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Collections/All Any and other predicates">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/All Any and other predicates/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/All Any and other predicates/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/All Any and other predicates/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

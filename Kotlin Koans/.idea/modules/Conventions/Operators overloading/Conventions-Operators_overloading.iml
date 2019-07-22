@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Conventions/Operators overloading">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Conventions/Operators overloading/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Conventions/Operators overloading/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Conventions/Operators overloading/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

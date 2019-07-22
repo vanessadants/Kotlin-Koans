@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Conventions/Destructuring declarations">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Conventions/Destructuring declarations/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Conventions/Destructuring declarations/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Conventions/Destructuring declarations/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

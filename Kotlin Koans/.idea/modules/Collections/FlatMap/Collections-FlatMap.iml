@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Collections/FlatMap">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/FlatMap/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/FlatMap/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/FlatMap/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

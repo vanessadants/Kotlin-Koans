@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Properties/Lazy property">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Properties/Lazy property/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Properties/Lazy property/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Properties/Lazy property/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

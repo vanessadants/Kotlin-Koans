@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Introduction/Nullable types">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Introduction/Nullable types/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Introduction/Nullable types/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Introduction/Nullable types/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

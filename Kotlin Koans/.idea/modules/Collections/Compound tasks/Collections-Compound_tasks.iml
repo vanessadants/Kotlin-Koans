@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Collections/Compound tasks">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/Compound tasks/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/Compound tasks/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/Compound tasks/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

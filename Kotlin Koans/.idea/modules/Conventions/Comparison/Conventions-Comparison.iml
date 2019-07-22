@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Conventions/Comparison">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Conventions/Comparison/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Conventions/Comparison/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Conventions/Comparison/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

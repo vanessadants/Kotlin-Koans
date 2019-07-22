@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Builders/Function literals with receiver">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Builders/Function literals with receiver/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Builders/Function literals with receiver/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Builders/Function literals with receiver/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

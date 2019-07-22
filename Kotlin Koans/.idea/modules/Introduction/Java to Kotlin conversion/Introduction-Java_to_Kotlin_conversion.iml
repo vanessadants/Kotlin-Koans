@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Introduction/Java to Kotlin conversion">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Introduction/Java to Kotlin conversion/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Introduction/Java to Kotlin conversion/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Introduction/Java to Kotlin conversion/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

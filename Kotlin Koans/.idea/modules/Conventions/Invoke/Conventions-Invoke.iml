@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Conventions/Invoke">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Conventions/Invoke/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Conventions/Invoke/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Conventions/Invoke/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

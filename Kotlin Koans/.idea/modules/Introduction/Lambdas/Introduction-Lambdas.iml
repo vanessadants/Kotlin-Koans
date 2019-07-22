@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Introduction/Lambdas">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Introduction/Lambdas/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Introduction/Lambdas/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Introduction/Lambdas/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

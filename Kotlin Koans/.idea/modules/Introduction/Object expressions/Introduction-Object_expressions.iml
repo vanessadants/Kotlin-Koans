@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Introduction/Object expressions">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Introduction/Object expressions/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Introduction/Object expressions/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Introduction/Object expressions/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

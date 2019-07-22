@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Collections/Filter map">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/Filter map/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/Filter map/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/Filter map/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

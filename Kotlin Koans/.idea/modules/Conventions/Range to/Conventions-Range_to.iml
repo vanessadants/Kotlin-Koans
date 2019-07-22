@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Conventions/Range to">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Conventions/Range to/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Conventions/Range to/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Conventions/Range to/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

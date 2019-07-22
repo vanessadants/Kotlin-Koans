@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Conventions/For loop">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Conventions/For loop/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Conventions/For loop/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Conventions/For loop/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

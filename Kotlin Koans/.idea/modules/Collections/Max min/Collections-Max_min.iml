@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Collections/Max min">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/Max min/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/Max min/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/Max min/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Collections/Get used to new style">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/Get used to new style/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/Get used to new style/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Collections/Get used to new style/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
