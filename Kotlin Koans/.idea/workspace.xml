@@ -10,10 +10,7 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction/Extensions on collections/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Extensions on collections/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction/Object expressions/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Object expressions/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction/SAM conversions/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/SAM conversions/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/In range/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/In range/src/Task.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -162,14 +159,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Conventions/Comparison/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
                 <MainEditorState relative-caret-position="135">
-                  <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+                  <caret line="9" selection-start-line="9" selection-end-line="9" />
                 </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conventions/In range/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="105">
+                  <caret line="7" selection-start-line="7" selection-end-line="7" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Conventions/Range to/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState>
+                  <caret column="45" selection-start-column="45" selection-end-column="51" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conventions/In range/src/MyDate.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState />
               </EduEditorState>
             </state>
           </provider>
@@ -206,6 +240,7 @@
         <option value="$PROJECT_DIR$/Introduction/Extensions on collections/src/Task.kt" />
         <option value="$PROJECT_DIR$/Introduction/Object expressions/src/Task.kt" />
         <option value="$PROJECT_DIR$/Conventions/Comparison/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Conventions/In range/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -220,18 +255,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Course">
         <subPane>
           <expand>
             <path>
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
               <item name="Kotlin Koans" type="ed842865:CourseNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
-              <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Introduction" type="d53b8fed:LessonNode" />
             </path>
             <path>
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
@@ -244,12 +273,25 @@
               <item name="Conventions" type="d53b8fed:LessonNode" />
               <item name="src" type="4928525d:TaskNode" />
             </path>
+            <path>
+              <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
+              <item name="Kotlin Koans" type="ed842865:CourseNode" />
+              <item name="Conventions" type="d53b8fed:LessonNode" />
+              <item name="src" type="4928525d:TaskNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
+              <item name="Kotlin Koans" type="ed842865:CourseNode" />
+              <item name="Conventions" type="d53b8fed:LessonNode" />
+              <item name="src" type="4928525d:TaskNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,16 +338,11 @@
       <workItem from="1564022414750" duration="1233000" />
       <workItem from="1564283365923" duration="3890000" />
       <workItem from="1564538209233" duration="2562000" />
+      <workItem from="1564971555413" duration="1128000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_in_'Introduction-Smart_casts_test' - 2019.07.23 at 00h 09m 43s.xml">
-      <configuration name="Tests in 'Introduction-Smart_casts_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Introduction-Nullable_types_test' - 2019.07.23 at 00h 34m 19s.xml">
-      <configuration name="Tests in 'Introduction-Nullable_types_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="Tests_in_'Introduction-Extension_functions_test' - 2019.07.23 at 00h 39m 14s.xml">
       <configuration name="Tests in 'Introduction-Extension_functions_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -330,15 +367,20 @@
     <history-entry file="Tests_in_'Conventions-Comparison_test' - 2019.07.30 at 23h 58m 45s.xml">
       <configuration name="Tests in 'Conventions-Comparison_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="Tests_in_'Conventions-Comparison_test' - 2019.08.04 at 23h 20m 00s.xml">
+      <configuration name="Tests in 'Conventions-Comparison_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Conventions-In_range_test' - 2019.08.04 at 23h 40m 57s.xml">
+      <configuration name="Tests in 'Conventions-In_range_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19106000" />
+    <option name="totallyTimeSpent" value="20234000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22455573" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22778675" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -554,7 +596,38 @@
         <state>
           <EduEditorState>
             <MainEditorState relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conventions/In range/src/MyDate.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conventions/In range/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conventions/Range to/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState>
+              <caret column="45" selection-start-column="45" selection-end-column="51" />
             </MainEditorState>
           </EduEditorState>
         </state>
